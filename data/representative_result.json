@@ -1,0 +1,3691 @@
+{
+  "서울특별시": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 135434,
+        "received_votes_ratio": 2.43
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 1841544,
+        "received_votes_ratio": 33.1
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 1846902,
+        "received_votes_ratio": 33.2
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 541583,
+        "received_votes_ratio": 9.73
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 34314,
+        "received_votes_ratio": 0.61
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 38847,
+        "received_votes_ratio": 0.69
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 6598,
+        "received_votes_ratio": 0.11
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 459479,
+        "received_votes_ratio": 8.26
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 20975,
+        "received_votes_ratio": 0.37
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 327109,
+        "received_votes_ratio": 5.88
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 4324,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 1305,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 1690,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 31826,
+        "received_votes_ratio": 0.57
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 1846,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 2559,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 106464,
+        "received_votes_ratio": 1.91
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 2242,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 1497,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 3960,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 15180,
+        "received_votes_ratio": 0.27
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 522,
+        "received_votes_ratio": 0.0
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 2297,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 12686,
+        "received_votes_ratio": 0.22
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 11116,
+        "received_votes_ratio": 0.19
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 13222,
+        "received_votes_ratio": 0.23
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 58011,
+        "received_votes_ratio": 1.04
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 973,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 2876,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 22652,
+        "received_votes_ratio": 0.4
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 3348,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 1054,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 2155,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 2460,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 3281,
+        "received_votes_ratio": 0.05
+      }
+    ],
+    "electors_num": 8477244,
+    "voted_num": 5775433,
+    "nullified_num": 213102
+  },
+  "부산광역시": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 41614,
+        "received_votes_ratio": 2.17
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 836599,
+        "received_votes_ratio": 43.75
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 543474,
+        "received_votes_ratio": 28.42
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 140822,
+        "received_votes_ratio": 7.36
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 15048,
+        "received_votes_ratio": 0.78
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 14405,
+        "received_votes_ratio": 0.75
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 3046,
+        "received_votes_ratio": 0.15
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 118570,
+        "received_votes_ratio": 6.2
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 9681,
+        "received_votes_ratio": 0.5
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 87965,
+        "received_votes_ratio": 4.6
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 2210,
+        "received_votes_ratio": 0.11
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 590,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 720,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 15878,
+        "received_votes_ratio": 0.83
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 723,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 964,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 30465,
+        "received_votes_ratio": 1.59
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 882,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 660,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 1907,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 3579,
+        "received_votes_ratio": 0.19
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 317,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 1252,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 4905,
+        "received_votes_ratio": 0.25
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 4127,
+        "received_votes_ratio": 0.21
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 5592,
+        "received_votes_ratio": 0.29
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 12169,
+        "received_votes_ratio": 0.63
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 425,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 1410,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 6913,
+        "received_votes_ratio": 0.36
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 1236,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 217,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 1016,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 1196,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 1406,
+        "received_votes_ratio": 0.04
+      }
+    ],
+    "electors_num": 2958290,
+    "voted_num": 2001838,
+    "nullified_num": 89855
+  },
+  "대구광역시": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 19805,
+        "received_votes_ratio": 1.48
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 730775,
+        "received_votes_ratio": 54.79
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 216496,
+        "received_votes_ratio": 16.23
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 84986,
+        "received_votes_ratio": 6.37
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 23828,
+        "received_votes_ratio": 1.78
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 6769,
+        "received_votes_ratio": 0.5
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 3455,
+        "received_votes_ratio": 0.25
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 115416,
+        "received_votes_ratio": 8.65
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 9287,
+        "received_votes_ratio": 0.69
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 40487,
+        "received_votes_ratio": 3.03
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 1755,
+        "received_votes_ratio": 0.13
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 388,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 378,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 11627,
+        "received_votes_ratio": 0.87
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 524,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 746,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 27418,
+        "received_votes_ratio": 2.05
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 560,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 435,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 1123,
+        "received_votes_ratio": 0.08
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 2575,
+        "received_votes_ratio": 0.19
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 258,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 1031,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 4571,
+        "received_votes_ratio": 0.34
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 2779,
+        "received_votes_ratio": 0.2
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 5920,
+        "received_votes_ratio": 0.44
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 8473,
+        "received_votes_ratio": 0.63
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 355,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 1160,
+        "received_votes_ratio": 0.08
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 6562,
+        "received_votes_ratio": 0.49
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 901,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 203,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 615,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 1017,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 1010,
+        "received_votes_ratio": 0.07
+      }
+    ],
+    "electors_num": 2071120,
+    "voted_num": 1387494,
+    "nullified_num": 53806
+  },
+  "인천광역시": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 34978,
+        "received_votes_ratio": 2.31
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 473343,
+        "received_votes_ratio": 31.32
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 522420,
+        "received_votes_ratio": 34.57
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 178601,
+        "received_votes_ratio": 11.82
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 9729,
+        "received_votes_ratio": 0.64
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 11731,
+        "received_votes_ratio": 0.77
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 2278,
+        "received_votes_ratio": 0.15
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 101062,
+        "received_votes_ratio": 6.68
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 7360,
+        "received_votes_ratio": 0.48
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 78805,
+        "received_votes_ratio": 5.21
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 1894,
+        "received_votes_ratio": 0.12
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 460,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 587,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 11390,
+        "received_votes_ratio": 0.75
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 650,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 910,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 31231,
+        "received_votes_ratio": 2.06
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 681,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 619,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 1560,
+        "received_votes_ratio": 0.1
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 2534,
+        "received_votes_ratio": 0.16
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 234,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 1025,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 4373,
+        "received_votes_ratio": 0.28
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 4255,
+        "received_votes_ratio": 0.28
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 4355,
+        "received_votes_ratio": 0.28
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 12632,
+        "received_votes_ratio": 0.83
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 366,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 1184,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 5631,
+        "received_votes_ratio": 0.37
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 897,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 325,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 895,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 936,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 948,
+        "received_votes_ratio": 0.06
+      }
+    ],
+    "electors_num": 2500690,
+    "voted_num": 1581223,
+    "nullified_num": 70344
+  },
+  "광주광역시": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 49188,
+        "received_votes_ratio": 6.36
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 24600,
+        "received_votes_ratio": 3.18
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 470698,
+        "received_votes_ratio": 60.95
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 76042,
+        "received_votes_ratio": 9.84
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 1062,
+        "received_votes_ratio": 0.13
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 22581,
+        "received_votes_ratio": 2.92
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 506,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 37659,
+        "received_votes_ratio": 4.87
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 610,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 63203,
+        "received_votes_ratio": 8.18
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 792,
+        "received_votes_ratio": 0.1
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 198,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 327,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 4006,
+        "received_votes_ratio": 0.51
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 242,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 315,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 5614,
+        "received_votes_ratio": 0.72
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 1358,
+        "received_votes_ratio": 0.17
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 229,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 1130,
+        "received_votes_ratio": 0.14
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 1362,
+        "received_votes_ratio": 0.17
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 81,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 363,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 433,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 1947,
+        "received_votes_ratio": 0.25
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 523,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 4016,
+        "received_votes_ratio": 0.52
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 111,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 329,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 900,
+        "received_votes_ratio": 0.11
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 425,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 41,
+        "received_votes_ratio": 0.0
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 531,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 281,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 504,
+        "received_votes_ratio": 0.06
+      }
+    ],
+    "electors_num": 1208263,
+    "voted_num": 795844,
+    "nullified_num": 23637
+  },
+  "대전광역시": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 17626,
+        "received_votes_ratio": 2.27
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 249771,
+        "received_votes_ratio": 32.25
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 260908,
+        "received_votes_ratio": 33.68
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 75933,
+        "received_votes_ratio": 9.8
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 5300,
+        "received_votes_ratio": 0.68
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 6902,
+        "received_votes_ratio": 0.89
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 1159,
+        "received_votes_ratio": 0.14
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 61478,
+        "received_votes_ratio": 7.93
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 3585,
+        "received_votes_ratio": 0.46
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 42323,
+        "received_votes_ratio": 5.46
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 902,
+        "received_votes_ratio": 0.11
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 236,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 282,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 6427,
+        "received_votes_ratio": 0.82
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 310,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 490,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 18754,
+        "received_votes_ratio": 2.42
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 390,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 276,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 681,
+        "received_votes_ratio": 0.08
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 1432,
+        "received_votes_ratio": 0.18
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 117,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 488,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 2272,
+        "received_votes_ratio": 0.29
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 2163,
+        "received_votes_ratio": 0.27
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 1930,
+        "received_votes_ratio": 0.24
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 5731,
+        "received_votes_ratio": 0.74
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 178,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 543,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 2655,
+        "received_votes_ratio": 0.34
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 537,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 1205,
+        "received_votes_ratio": 0.15
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 410,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 446,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 599,
+        "received_votes_ratio": 0.07
+      }
+    ],
+    "electors_num": 1237183,
+    "voted_num": 810576,
+    "nullified_num": 36137
+  },
+  "울산광역시": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 13090,
+        "received_votes_ratio": 2.08
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 249046,
+        "received_votes_ratio": 39.59
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 168330,
+        "received_votes_ratio": 26.76
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 64659,
+        "received_votes_ratio": 10.28
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 4804,
+        "received_votes_ratio": 0.71
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 17088,
+        "received_votes_ratio": 2.71
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 1085,
+        "received_votes_ratio": 0.17
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 38945,
+        "received_votes_ratio": 6.19
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 3253,
+        "received_votes_ratio": 0.51
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 27607,
+        "received_votes_ratio": 4.38
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 981,
+        "received_votes_ratio": 0.15
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 228,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 216,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 6383,
+        "received_votes_ratio": 1.01
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 275,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 386,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 9755,
+        "received_votes_ratio": 1.55
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 305,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 250,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 5961,
+        "received_votes_ratio": 0.94
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 1548,
+        "received_votes_ratio": 0.24
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 115,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 466,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 2099,
+        "received_votes_ratio": 0.33
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 1572,
+        "received_votes_ratio": 0.24
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 2282,
+        "received_votes_ratio": 0.36
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 3701,
+        "received_votes_ratio": 0.58
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 135,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 506,
+        "received_votes_ratio": 0.08
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 2008,
+        "received_votes_ratio": 0.31
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 448,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 93,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 366,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 450,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 485,
+        "received_votes_ratio": 0.07
+      }
+    ],
+    "electors_num": 953648,
+    "voted_num": 654379,
+    "nullified_num": 25458
+  },
+  "세종특별자치시": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 4071,
+        "received_votes_ratio": 2.33
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 44642,
+        "received_votes_ratio": 25.57
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 63761,
+        "received_votes_ratio": 36.53
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 21423,
+        "received_votes_ratio": 12.27
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 776,
+        "received_votes_ratio": 0.44
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 1187,
+        "received_votes_ratio": 0.68
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 191,
+        "received_votes_ratio": 0.1
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 16097,
+        "received_votes_ratio": 9.22
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 630,
+        "received_votes_ratio": 0.36
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 12780,
+        "received_votes_ratio": 7.32
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 185,
+        "received_votes_ratio": 0.1
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 39,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 43,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 1311,
+        "received_votes_ratio": 1.01
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 48,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 95,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 3179,
+        "received_votes_ratio": 1.82
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 53,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 31,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 110,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 280,
+        "received_votes_ratio": 0.16
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 18,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 70,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 469,
+        "received_votes_ratio": 0.26
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 356,
+        "received_votes_ratio": 0.2
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 306,
+        "received_votes_ratio": 0.17
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 1146,
+        "received_votes_ratio": 0.65
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 32,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 69,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 623,
+        "received_votes_ratio": 0.35
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 88,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 136,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 74,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 89,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 126,
+        "received_votes_ratio": 0.07
+      }
+    ],
+    "electors_num": 263388,
+    "voted_num": 180395,
+    "nullified_num": 5861
+  },
+  "경기도": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 164774,
+        "received_votes_ratio": 2.38
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 2168605,
+        "received_votes_ratio": 31.39
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 2398041,
+        "received_votes_ratio": 34.72
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 720174,
+        "received_votes_ratio": 10.42
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 43558,
+        "received_votes_ratio": 0.63
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 61349,
+        "received_votes_ratio": 0.88
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 9499,
+        "received_votes_ratio": 0.13
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 502491,
+        "received_votes_ratio": 7.27
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 33841,
+        "received_votes_ratio": 0.48
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 408476,
+        "received_votes_ratio": 5.91
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 8171,
+        "received_votes_ratio": 0.11
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 1860,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 2320,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 46629,
+        "received_votes_ratio": 0.67
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 2690,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 3824,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 142846,
+        "received_votes_ratio": 2.06
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 3022,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 2224,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 6042,
+        "received_votes_ratio": 0.08
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 13265,
+        "received_votes_ratio": 0.19
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 874,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 3978,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 17179,
+        "received_votes_ratio": 0.24
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 17235,
+        "received_votes_ratio": 0.24
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 17493,
+        "received_votes_ratio": 0.25
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 55946,
+        "received_votes_ratio": 0.81
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 1370,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 4474,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 28001,
+        "received_votes_ratio": 0.4
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 4105,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 1303,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 3335,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 3514,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 4194,
+        "received_votes_ratio": 0.06
+      }
+    ],
+    "electors_num": 11067819,
+    "voted_num": 7193937,
+    "nullified_num": 287235
+  },
+  "강원도": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 19570,
+        "received_votes_ratio": 2.35
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 324873,
+        "received_votes_ratio": 39.12
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 239777,
+        "received_votes_ratio": 28.87
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 80950,
+        "received_votes_ratio": 9.74
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 7644,
+        "received_votes_ratio": 0.92
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 8802,
+        "received_votes_ratio": 1.06
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 2322,
+        "received_votes_ratio": 0.27
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 48542,
+        "received_votes_ratio": 5.84
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 6970,
+        "received_votes_ratio": 0.83
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 38435,
+        "received_votes_ratio": 4.62
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 1383,
+        "received_votes_ratio": 0.16
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 377,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 409,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 7693,
+        "received_votes_ratio": 0.92
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 523,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 601,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 13970,
+        "received_votes_ratio": 1.68
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 537,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 517,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 1180,
+        "received_votes_ratio": 0.14
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 2175,
+        "received_votes_ratio": 0.26
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 257,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 971,
+        "received_votes_ratio": 0.11
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 2273,
+        "received_votes_ratio": 0.27
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 2923,
+        "received_votes_ratio": 0.35
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 3875,
+        "received_votes_ratio": 0.46
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 4972,
+        "received_votes_ratio": 0.59
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 301,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 873,
+        "received_votes_ratio": 0.1
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 2921,
+        "received_votes_ratio": 0.35
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 761,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 257,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 815,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 999,
+        "received_votes_ratio": 0.12
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 901,
+        "received_votes_ratio": 0.1
+      }
+    ],
+    "electors_num": 1323766,
+    "voted_num": 874184,
+    "nullified_num": 43835
+  },
+  "충청북도": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 23864,
+        "received_votes_ratio": 2.89
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 298540,
+        "received_votes_ratio": 36.26
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 254085,
+        "received_votes_ratio": 30.86
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 85282,
+        "received_votes_ratio": 10.36
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 7222,
+        "received_votes_ratio": 0.87
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 6837,
+        "received_votes_ratio": 0.83
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 1887,
+        "received_votes_ratio": 0.22
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 50654,
+        "received_votes_ratio": 6.15
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 6115,
+        "received_votes_ratio": 0.74
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 38211,
+        "received_votes_ratio": 4.64
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 1250,
+        "received_votes_ratio": 0.15
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 349,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 371,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 7069,
+        "received_votes_ratio": 0.85
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 534,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 540,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 13596,
+        "received_votes_ratio": 1.65
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 473,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 459,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 1085,
+        "received_votes_ratio": 0.13
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 1874,
+        "received_votes_ratio": 0.22
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 217,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 832,
+        "received_votes_ratio": 0.1
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 2773,
+        "received_votes_ratio": 0.33
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 2757,
+        "received_votes_ratio": 0.33
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 2605,
+        "received_votes_ratio": 0.31
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 4912,
+        "received_votes_ratio": 0.59
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 279,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 733,
+        "received_votes_ratio": 0.08
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 2758,
+        "received_votes_ratio": 0.33
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 795,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 1777,
+        "received_votes_ratio": 0.21
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 744,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 805,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 824,
+        "received_votes_ratio": 0.1
+      }
+    ],
+    "electors_num": 1354046,
+    "voted_num": 865923,
+    "nullified_num": 42815
+  },
+  "충청남도": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 26742,
+        "received_votes_ratio": 2.54
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 372229,
+        "received_votes_ratio": 36.4
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 328364,
+        "received_votes_ratio": 31.23
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 101857,
+        "received_votes_ratio": 9.68
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 8813,
+        "received_votes_ratio": 0.83
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 14823,
+        "received_votes_ratio": 1.41
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 2585,
+        "received_votes_ratio": 0.24
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 67228,
+        "received_votes_ratio": 6.39
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 8128,
+        "received_votes_ratio": 0.77
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 48818,
+        "received_votes_ratio": 4.64
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 1593,
+        "received_votes_ratio": 0.15
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 457,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 507,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 9150,
+        "received_votes_ratio": 0.87
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 646,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 809,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 23939,
+        "received_votes_ratio": 2.27
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 620,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 601,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 1400,
+        "received_votes_ratio": 0.13
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 1612,
+        "received_votes_ratio": 0.15
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 275,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 1026,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 3310,
+        "received_votes_ratio": 0.31
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 3602,
+        "received_votes_ratio": 0.34
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 3448,
+        "received_votes_ratio": 0.32
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 6685,
+        "received_votes_ratio": 0.63
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 351,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 1012,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 4002,
+        "received_votes_ratio": 0.38
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 957,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 2535,
+        "received_votes_ratio": 0.24
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 953,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 1092,
+        "received_votes_ratio": 0.1
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 1090,
+        "received_votes_ratio": 0.1
+      }
+    ],
+    "electors_num": 1781956,
+    "voted_num": 1112253,
+    "nullified_num": 60994
+  },
+  "전라북도": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 62607,
+        "received_votes_ratio": 6.33
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 56666,
+        "received_votes_ratio": 5.73
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 553967,
+        "received_votes_ratio": 56.02
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 118783,
+        "received_votes_ratio": 12.01
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 5908,
+        "received_votes_ratio": 0.59
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 15607,
+        "received_votes_ratio": 1.57
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 1588,
+        "received_votes_ratio": 0.16
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 40512,
+        "received_votes_ratio": 4.09
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 2039,
+        "received_votes_ratio": 0.2
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 89212,
+        "received_votes_ratio": 9.02
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 1270,
+        "received_votes_ratio": 0.12
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 389,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 654,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 5315,
+        "received_votes_ratio": 0.53
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 633,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 677,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 11145,
+        "received_votes_ratio": 1.12
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 411,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 474,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 1203,
+        "received_votes_ratio": 0.12
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 1558,
+        "received_votes_ratio": 0.15
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 172,
+        "received_votes_ratio": 0.01
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 710,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 965,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 3229,
+        "received_votes_ratio": 0.32
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 1164,
+        "received_votes_ratio": 0.1
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 4880,
+        "received_votes_ratio": 0.49
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 296,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 717,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 1649,
+        "received_votes_ratio": 0.16
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 932,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 215,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 1223,
+        "received_votes_ratio": 0.12
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 738,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 1302,
+        "received_votes_ratio": 0.13
+      }
+    ],
+    "electors_num": 1542579,
+    "voted_num": 1033976,
+    "nullified_num": 45166
+  },
+  "전라남도": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 76298,
+        "received_votes_ratio": 7.41
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 43122,
+        "received_votes_ratio": 4.18
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 621100,
+        "received_votes_ratio": 60.34
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 98431,
+        "received_votes_ratio": 9.56
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 4293,
+        "received_votes_ratio": 0.41
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 31442,
+        "received_votes_ratio": 3.05
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 2454,
+        "received_votes_ratio": 0.23
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 39862,
+        "received_votes_ratio": 3.87
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 1878,
+        "received_votes_ratio": 0.18
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 71672,
+        "received_votes_ratio": 6.96
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 1435,
+        "received_votes_ratio": 0.13
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 517,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 1018,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 4594,
+        "received_votes_ratio": 0.44
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 711,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 609,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 8410,
+        "received_votes_ratio": 0.81
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 556,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 518,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 1366,
+        "received_votes_ratio": 0.13
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 1434,
+        "received_votes_ratio": 0.13
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 226,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 807,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 793,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 3159,
+        "received_votes_ratio": 0.3
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 1100,
+        "received_votes_ratio": 0.1
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 4054,
+        "received_votes_ratio": 0.39
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 335,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 633,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 1413,
+        "received_votes_ratio": 0.13
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 883,
+        "received_votes_ratio": 0.08
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 271,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 1502,
+        "received_votes_ratio": 0.14
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 678,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 1679,
+        "received_votes_ratio": 0.16
+      }
+    ],
+    "electors_num": 1592850,
+    "voted_num": 1079454,
+    "nullified_num": 50201
+  },
+  "경상북도": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 23434,
+        "received_votes_ratio": 1.62
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 818952,
+        "received_votes_ratio": 56.76
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 232923,
+        "received_votes_ratio": 16.14
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 94251,
+        "received_votes_ratio": 6.53
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 19419,
+        "received_votes_ratio": 1.43
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 12392,
+        "received_votes_ratio": 0.85
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 5235,
+        "received_votes_ratio": 0.36
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 80428,
+        "received_votes_ratio": 5.57
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 15966,
+        "received_votes_ratio": 1.1
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 41334,
+        "received_votes_ratio": 2.86
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 2341,
+        "received_votes_ratio": 0.16
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 775,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 562,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 12715,
+        "received_votes_ratio": 0.88
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 898,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 1010,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 32821,
+        "received_votes_ratio": 2.27
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 899,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 871,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 1835,
+        "received_votes_ratio": 0.12
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 1995,
+        "received_votes_ratio": 0.12
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 546,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 1764,
+        "received_votes_ratio": 0.12
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 5547,
+        "received_votes_ratio": 0.38
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 3675,
+        "received_votes_ratio": 0.25
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 7895,
+        "received_votes_ratio": 0.54
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 7374,
+        "received_votes_ratio": 0.51
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 548,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 1979,
+        "received_votes_ratio": 0.13
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 5896,
+        "received_votes_ratio": 0.4
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 1113,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 598,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 1072,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 1985,
+        "received_votes_ratio": 0.13
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 1691,
+        "received_votes_ratio": 0.11
+      }
+    ],
+    "electors_num": 2282938,
+    "voted_num": 1516135,
+    "nullified_num": 73396
+  },
+  "경상남도": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 38262,
+        "received_votes_ratio": 2.09
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 813958,
+        "received_votes_ratio": 44.6
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 467019,
+        "received_votes_ratio": 25.59
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 171142,
+        "received_votes_ratio": 9.37
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 14618,
+        "received_votes_ratio": 0.8
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 20684,
+        "received_votes_ratio": 1.13
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 4188,
+        "received_votes_ratio": 0.22
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 98610,
+        "received_votes_ratio": 5.4
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 10582,
+        "received_votes_ratio": 0.57
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 75459,
+        "received_votes_ratio": 4.13
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 2967,
+        "received_votes_ratio": 0.16
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 952,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 818,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 16600,
+        "received_votes_ratio": 0.9
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 926,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 1223,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 29732,
+        "received_votes_ratio": 1.62
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 1096,
+        "received_votes_ratio": 0.06
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 984,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 3141,
+        "received_votes_ratio": 0.17
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 3249,
+        "received_votes_ratio": 0.17
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 540,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 1858,
+        "received_votes_ratio": 0.1
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 5563,
+        "received_votes_ratio": 0.3
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 5037,
+        "received_votes_ratio": 0.27
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 7430,
+        "received_votes_ratio": 0.4
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 11723,
+        "received_votes_ratio": 0.64
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 609,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 1797,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 6319,
+        "received_votes_ratio": 0.34
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 1519,
+        "received_votes_ratio": 0.08
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 509,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 1365,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 2143,
+        "received_votes_ratio": 0.11
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 2203,
+        "received_votes_ratio": 0.12
+      }
+    ],
+    "electors_num": 2823511,
+    "voted_num": 1914323,
+    "nullified_num": 89498
+  },
+  "제주특별자치도": {
+    "parties": [
+      {
+        "party_no": 3,
+        "party_name": "민생당",
+        "received_votes": 7421,
+        "received_votes_ratio": 2.22
+      },
+      {
+        "party_no": 4,
+        "party_name": "미래한국당",
+        "received_votes": 94255,
+        "received_votes_ratio": 28.23
+      },
+      {
+        "party_no": 5,
+        "party_name": "더불어시민당",
+        "received_votes": 118847,
+        "received_votes_ratio": 35.6
+      },
+      {
+        "party_no": 6,
+        "party_name": "정의당",
+        "received_votes": 43037,
+        "received_votes_ratio": 12.89
+      },
+      {
+        "party_no": 7,
+        "party_name": "우리공화당",
+        "received_votes": 2383,
+        "received_votes_ratio": 0.71
+      },
+      {
+        "party_no": 8,
+        "party_name": "민중당",
+        "received_votes": 4166,
+        "received_votes_ratio": 1.24
+      },
+      {
+        "party_no": 9,
+        "party_name": "한국경제당",
+        "received_votes": 731,
+        "received_votes_ratio": 0.21
+      },
+      {
+        "party_no": 10,
+        "party_name": "국민의당",
+        "received_votes": 19686,
+        "received_votes_ratio": 5.89
+      },
+      {
+        "party_no": 11,
+        "party_name": "친박신당",
+        "received_votes": 1847,
+        "received_votes_ratio": 0.55
+      },
+      {
+        "party_no": 12,
+        "party_name": "열린민주당",
+        "received_votes": 20867,
+        "received_votes_ratio": 6.25
+      },
+      {
+        "party_no": 13,
+        "party_name": "가자코리아",
+        "received_votes": 559,
+        "received_votes_ratio": 0.16
+      },
+      {
+        "party_no": 14,
+        "party_name": "가자!평화인권당",
+        "received_votes": 125,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 15,
+        "party_name": "가자환경당",
+        "received_votes": 138,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 16,
+        "party_name": "국가혁명배당금당",
+        "received_votes": 2044,
+        "received_votes_ratio": 0.61
+      },
+      {
+        "party_no": 17,
+        "party_name": "국민새정당",
+        "received_votes": 197,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 18,
+        "party_name": "국민참여신당",
+        "received_votes": 240,
+        "received_votes_ratio": 0.07
+      },
+      {
+        "party_no": 19,
+        "party_name": "기독자유통일당",
+        "received_votes": 3820,
+        "received_votes_ratio": 1.14
+      },
+      {
+        "party_no": 20,
+        "party_name": "깨어있는시민연대당",
+        "received_votes": 157,
+        "received_votes_ratio": 0.04
+      },
+      {
+        "party_no": 21,
+        "party_name": "남북통일당",
+        "received_votes": 188,
+        "received_votes_ratio": 0.05
+      },
+      {
+        "party_no": 22,
+        "party_name": "노동당",
+        "received_votes": 588,
+        "received_votes_ratio": 0.17
+      },
+      {
+        "party_no": 23,
+        "party_name": "녹색당",
+        "received_votes": 3296,
+        "received_votes_ratio": 0.98
+      },
+      {
+        "party_no": 24,
+        "party_name": "대한당",
+        "received_votes": 86,
+        "received_votes_ratio": 0.02
+      },
+      {
+        "party_no": 25,
+        "party_name": "대한민국당",
+        "received_votes": 308,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 26,
+        "party_name": "미래당",
+        "received_votes": 1212,
+        "received_votes_ratio": 0.36
+      },
+      {
+        "party_no": 27,
+        "party_name": "미래민주당",
+        "received_votes": 1365,
+        "received_votes_ratio": 0.4
+      },
+      {
+        "party_no": 28,
+        "party_name": "새누리당",
+        "received_votes": 1068,
+        "received_votes_ratio": 0.31
+      },
+      {
+        "party_no": 29,
+        "party_name": "여성의당",
+        "received_votes": 2272,
+        "received_votes_ratio": 0.68
+      },
+      {
+        "party_no": 30,
+        "party_name": "우리당",
+        "received_votes": 109,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 31,
+        "party_name": "자유당",
+        "received_votes": 304,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 32,
+        "party_name": "자유의새벽당",
+        "received_votes": 916,
+        "received_votes_ratio": 0.27
+      },
+      {
+        "party_no": 33,
+        "party_name": "중소자영업당",
+        "received_votes": 499,
+        "received_votes_ratio": 0.14
+      },
+      {
+        "party_no": 34,
+        "party_name": "충청의미래당",
+        "received_votes": 102,
+        "received_votes_ratio": 0.03
+      },
+      {
+        "party_no": 35,
+        "party_name": "통일민주당",
+        "received_votes": 334,
+        "received_votes_ratio": 0.1
+      },
+      {
+        "party_no": 36,
+        "party_name": "한국복지당",
+        "received_votes": 330,
+        "received_votes_ratio": 0.09
+      },
+      {
+        "party_no": 37,
+        "party_name": "홍익당",
+        "received_votes": 340,
+        "received_votes_ratio": 0.1
+      }
+    ],
+    "electors_num": 554956,
+    "voted_num": 349029,
+    "nullified_num": 15192
+  }
+}
